@@ -1,4 +1,4 @@
-#Proyecto stripe
+Proyecto stripe
 
 > [!IMPORTANT]
 
